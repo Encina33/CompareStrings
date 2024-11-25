@@ -1,0 +1,4 @@
+# ninja log v6
+5	346	7542525328957685	build.ninja	a6454da822796f7b
+31	176	7542525330603146	CMakeFiles/CompareStrings.dir/main.c.obj	eca260b154bba098
+177	297	7542525332069919	CompareStrings.exe	e9f6b2066b278d5
